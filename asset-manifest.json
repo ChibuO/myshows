@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ms_frontend/static/css/main.0cd87701.css",
+    "main.js": "/ms_frontend/static/js/main.f5559ff2.js",
+    "static/media/tv_bg.jpg": "/ms_frontend/static/media/tv_bg.78e25d0aad207f620fe9.jpg",
+    "index.html": "/ms_frontend/index.html",
+    "main.0cd87701.css.map": "/ms_frontend/static/css/main.0cd87701.css.map",
+    "main.f5559ff2.js.map": "/ms_frontend/static/js/main.f5559ff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd87701.css",
+    "static/js/main.f5559ff2.js"
+  ]
+}
